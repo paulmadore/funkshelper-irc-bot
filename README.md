@@ -1,0 +1,1 @@
+# funkshelper-irc-bot
